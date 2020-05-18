@@ -1,0 +1,15 @@
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\MainWindow.g.cs
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\App.g.cs
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1_MarkupCompile.cache
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1_MarkupCompile.lref
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\MainWindow.baml
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1.g.resources
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\Florian\Documents\Cours_2A\OS\TPNET\TP1\TP1\obj\Debug\TP1.pdb
